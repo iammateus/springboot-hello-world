@@ -4,6 +4,3 @@ WORKDIR /app/
 
 ENTRYPOINT [ "mvn" ]
 CMD [ "spring-boot:run" ]
-
-
-
